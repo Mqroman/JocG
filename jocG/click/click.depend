@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1516459148 source:c:\users\utilizator 5\documents\code blocks\click\main.cpp
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<ctime>
+
+1516462748 source:c:\users\utilizator 5\desktop\anghel cristi si roman marius jocg\click\main.cpp
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<ctime>
+
+1575920710 source:c:\users\utilizator 5\desktop\proiecte\codeblocks code\jocg\click\main.cpp
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<ctime>
+
